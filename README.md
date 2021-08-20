@@ -9,4 +9,4 @@
 
 ![alt text](https://raw.githubusercontent.com/jatoran/C-Learning-Projects/main/images/cSS4.png)
 
-![alt text](https://raw.githubusercontent.com/jatoran/C-Learning-Projects/main/images/cSS5.png)
+![alt text](https://raw.githubusercontent.com/jatoran/C-Learning-Projects/main/images/cSS6.png)
