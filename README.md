@@ -1,5 +1,6 @@
 # C-Learning-Projects
- Sort/Search Algorithms and fileIO Projects in C
+
+Sort/Search Algorithms, Data Structures, Merging Algorithms, and fileIO Projects in C
 
 ## Manipulate multiple data structures
 
