@@ -579,7 +579,7 @@ void intersection(superArray* a, superArray* b, superArray* c){
       }
     }
   }
-  if (c->size == 0) printf("\nNo Intersection nigga");
+  if (c->size == 0) printf("\nNo Intersection");
   else {
     printf("\n\nIntersection Array:\n\n");
     printArray(c);
@@ -641,7 +641,7 @@ void runComposite(superArray* superArrays, int userInput){
   }
   
   else {
-    printf("Selected array(s) not yet populated. Popoulate first mothafucka.\n");
+    printf("Selected array(s) not yet populated. Popoulate first\n");
   }
 }
 
